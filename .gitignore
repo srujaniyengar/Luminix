@@ -1,0 +1,57 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+a.out
+
+# Debug files
+*.gch
+*.pch
+
+# Build directories (common for CMake/Make)
+build/
+Build/
+bin/
+obj/
+
+# CMake specific
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+CTestTestfile.cmake
+install_manifest.txt
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Code coverage
+*.gcno
+*.gcda
+*.gcov
+
+# Logs
+*.log
+
+# Generated documentation
+/doc/
+docs/
+html/
+latex/
