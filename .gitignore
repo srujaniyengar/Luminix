@@ -1,7 +1,8 @@
 # Compiled object files
 *.o
 *.obj
-
+*.png
+luminix
 # Compiled Dynamic libraries
 *.so
 *.dylib
